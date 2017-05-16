@@ -20,4 +20,4 @@
     # here we are using the $env variable above
 
     - shell: echo $HI
-      environment: env
+      environment: "{{ env }}"
