@@ -11,3 +11,4 @@
         - wget
         - curl
         - vim
+        - zip
