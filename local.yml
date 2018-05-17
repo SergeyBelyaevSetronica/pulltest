@@ -9,6 +9,5 @@
       with_items:
         - git
         - wget
-        - vim
         - zip
         - unzip
