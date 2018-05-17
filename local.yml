@@ -11,3 +11,5 @@
         - wget
         - zip
         - unzip
+        - bash
+        - mc
